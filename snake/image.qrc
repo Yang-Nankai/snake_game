@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/myImage">
+        <file>img/food.png</file>
+        <file>img/head_down.jpg</file>
+        <file>img/head_left.jpg</file>
+        <file>img/head_right.jpg</file>
+        <file>img/head_up.png</file>
+        <file>img/snake_body.png</file>
+        <file>img/snake_body2.jpg</file>
+        <file>img/OIP.jpg</file>
+        <file>img/bk01.png</file>
+        <file>img/head_down1.jpg</file>
+        <file>img/head_left1.jpg</file>
+        <file>img/head_right1.jpg</file>
+        <file>img/head_up1.png</file>
+        <file>img/snake_body1.png</file>
+    </qresource>
+</RCC>
